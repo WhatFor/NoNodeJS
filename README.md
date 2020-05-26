@@ -4,5 +4,5 @@ A NodeJS-free JS app, including basic configuration to get off the ground.
 
 ### Commands
 
- - `npm run webpack` ~ Compile the app
- - `npm run start` ~ Spin up a basic HTTP Server to serve the app on `localhost:8080`
+ - `npm run build` ~ Compile the app
+ - `npm run watch` ~ Spin up a server to serve the app on `localhost:8080`
